@@ -1,0 +1,16 @@
+{
+    "git.ignoreLimitWarning": true,
+    "terminal.integrated.detectLocale": "on",
+    "terminal.integrated.enableBell": true,
+    "cSpell.words": [
+        "Hanlun",
+        "dlib",
+        "dsize",
+        "imread",
+        "imshow",
+        "islower",
+        "pyttsx",
+        "recognition",
+        "speech"
+    ]
+}
